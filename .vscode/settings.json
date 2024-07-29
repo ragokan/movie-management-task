@@ -1,0 +1,11 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always",
+    "source.fixAll": "always",
+    "source.organizeImports": "always",
+    "source.sortMembers": "always"
+  },
+  "editor.formatOnSave": true,
+  "prettier.enable": true,
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
